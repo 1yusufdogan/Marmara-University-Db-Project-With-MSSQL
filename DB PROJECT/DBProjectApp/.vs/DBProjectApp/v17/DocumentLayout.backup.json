@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|c:\\users\\yusuf\\source\\repos\\dbprojectapp\\dbprojectapp\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|solutionrelative:dbprojectapp\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|c:\\users\\yusuf\\source\\repos\\dbprojectapp\\dbprojectapp\\models\\scaffoldeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|solutionrelative:dbprojectapp\\models\\scaffoldeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|c:\\users\\yusuf\\source\\repos\\dbprojectapp\\dbprojectapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|solutionrelative:dbprojectapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|c:\\users\\yusuf\\source\\repos\\dbprojectapp\\dbprojectapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|solutionrelative:dbprojectapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|c:\\users\\yusuf\\source\\repos\\dbprojectapp\\dbprojectapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|solutionrelative:dbprojectapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|c:\\users\\yusuf\\source\\repos\\dbprojectapp\\dbprojectapp\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8B1F15-ABDB-41F3-B00D-2B92871CADD5}|DBProjectApp\\DBProjectApp.csproj|solutionrelative:dbprojectapp\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 374,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DBProjectApp\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "DBProjectApp\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:44:06.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DBProjectApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Models\\Category.cs",
+              "RelativeToolTip": "DBProjectApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:44:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "DBProjectApp\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Controllers\\MainController.cs",
+              "RelativeToolTip": "DBProjectApp\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:52:29.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScaffoldedDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Models\\ScaffoldedDbContext.cs",
+              "RelativeDocumentMoniker": "DBProjectApp\\Models\\ScaffoldedDbContext.cs",
+              "ToolTip": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Models\\ScaffoldedDbContext.cs",
+              "RelativeToolTip": "DBProjectApp\\Models\\ScaffoldedDbContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:51:28.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DBProjectApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DBProjectApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:32:20.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Program.cs",
+              "RelativeDocumentMoniker": "DBProjectApp\\Program.cs",
+              "ToolTip": "C:\\Users\\YUSUF\\source\\repos\\DBProjectApp\\DBProjectApp\\Program.cs",
+              "RelativeToolTip": "DBProjectApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:29:52.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

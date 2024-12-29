@@ -1,0 +1,228 @@
+[
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "AddToCheckout",
+    "RelativePath": "api/add-to-checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addToCheckoutDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BAddToCheckoutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "Checkout",
+    "RelativePath": "api/checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checkoutDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BCheckoutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/create-customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createCustomerDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BCreateCustomerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "DeleteCustomer",
+    "RelativePath": "api/delete-customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deleteCustomerDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BDeleteCustomerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "FindProducts",
+    "RelativePath": "api/find-products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "findProductsDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BFindProductsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "GetBestSellingProducts",
+    "RelativePath": "api/get-best-selling-products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "GetBestSellingProductsFromView",
+    "RelativePath": "api/get-best-selling-products-from-view",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "GetCategories",
+    "RelativePath": "api/get-categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "GetCheckoutOrderByCustomerId",
+    "RelativePath": "api/get-checkout-order-by-customer-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getCheckoutOrderByCustomerIdDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BGetCheckoutOrderByCustomerIdDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "GetMostSpendingCustomers",
+    "RelativePath": "api/get-most-spending-customers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "GetMostSpendingCustomersFromView",
+    "RelativePath": "api/get-most-spending-customers-from-view",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "GetOrderDetailsByOrderId",
+    "RelativePath": "api/get-order-details-by-order-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getOrderDetailsByOrderIdDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BGetOrderDetailsByOrderIdDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "GetOrdersByCustomerId",
+    "RelativePath": "api/get-orders-by-customer-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getOrdersByCustomerIdDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BGetOrdersByCustomerIdDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "Login",
+    "RelativePath": "api/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "RemoveFromCheckout",
+    "RelativePath": "api/remove-from-checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "removeFromCheckoutDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BRemoveFromCheckoutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DBProjectApp.Controllers.MainController",
+    "Method": "UpdateCustomer",
+    "RelativePath": "api/update-customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateCustomerDTO",
+        "Type": "DBProjectApp.Controllers.MainController\u002BUpdateCustomerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

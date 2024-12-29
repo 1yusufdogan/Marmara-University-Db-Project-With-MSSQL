@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0xeIvw9WA6cFFBL1wzQEyAmSnPVz6tmqVZtPCxDfXOU=",
+  "Source": "DBProjectApp",
+  "BasePath": "_content/DBProjectApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
